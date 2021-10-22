@@ -1,0 +1,6 @@
+Responsável, Email, Região
+André, , AM
+Pedro, , GO
+Paula, , MG
+Maria, , RJ
+Ricardo, ,SP
